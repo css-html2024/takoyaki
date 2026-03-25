@@ -1,3 +1,5 @@
+> [!] This project is particularly abandoned because the group is no longer as active as it was. Therefore, less chaos occured :D
+
 # takoyaki
 > 【！】此專案所有文字均以英文爲準。若看不懂英文，請使用LLM作翻譯。
 
